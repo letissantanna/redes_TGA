@@ -12,5 +12,5 @@ Na aplicação conseguimos também adicionar um novo peer.
 Código escrito em C, ultilizando Pipes para o execução de comandos e pegada de retorno.
 
 Leticia Santos Sant'Anna
-Sistemas de Informação
+/Sistemas de Informação/
 UNISINOS - São Leopoldo/RS
