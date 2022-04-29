@@ -1,4 +1,4 @@
-# TGA_Redes
+# Trabalho GA
 Trabalho da disciplina de Redes de Computadores 1 
 
 O objetivo deste trabalho é fazer comunicação p2p
